@@ -1,4 +1,4 @@
-package List.OperacoesBasicas.ExercicioList;
+package List.OperacoesBasicas.OperacoesBasicasList.ExercicioList;
 
 public class Main {
     public static void main(String[] args) {
